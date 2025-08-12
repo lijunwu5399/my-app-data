@@ -1,0 +1,35 @@
+name: Market Data Collector
+
+on:
+  schedule:
+    # 每5分钟运行一次
+    - cron: '*/5 * * * *'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  collect-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 给予向仓库写入内容的权限
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install Dependencies
+        run: npm install node-fetch@2 # 安装一个用于网络请求的库
+
+      - name: Run Collector Script
+        run: node collector.js # 运行我们下一步要创建的采集脚本
+
+      - name: Commit and Push if changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/dashboard_data.json
+          # 只有当文件有变化时才提交
+          git diff --quiet --staged || (git commit -m "Update dashboard data" && git push)
