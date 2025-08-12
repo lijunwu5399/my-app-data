@@ -1,7 +1,7 @@
 const fs = require('fs');
 const fetch = require('node-fetch');
 
-const API_URL = 'https://fapi.binance.com/fapi/v1/ticker/24hr';
+const API_URL = 'https://api.binance.com/api/v3/ticker/24hr';
 const DATA_FILE_PATH = 'data/dashboard_data.json';
 
 async function run() {
