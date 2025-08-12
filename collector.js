@@ -1,15 +1,27 @@
 const fs = require('fs');
 const fetch = require('node-fetch');
 
-const API_URL = 'https://api1.binance.com/api/v3/ticker/24hr';
+// 币安的API地址
+const BINANCE_API_URL = 'https://api.binance.com/api/v3/ticker/24hr';
+// 一个公共代理服务器的地址
+const PROXY_URL = 'https://api.codetabs.com/v1/proxy?quest=';
+
+// 最终请求的地址是代理+币安地址
+const FINAL_API_URL = PROXY_URL + BINANCE_API_URL;
+
 const DATA_FILE_PATH = 'data/dashboard_data.json';
 
 async function run() {
-    console.log('开始采集数据...');
+    console.log(`开始通过代理采集数据... 请求地址: ${FINAL_API_URL}`);
     try {
-        const response = await fetch(API_URL);
-        if (!response.ok) throw new Error(`币安API请求失败: ${response.statusText}`);
+        const response = await fetch(FINAL_API_URL);
+        if (!response.ok) throw new Error(`代理或币安API请求失败: ${response.statusText}`);
         const tickers = await response.json();
+
+        // 确保返回的是一个数组
+        if (!Array.isArray(tickers)) {
+            throw new Error('从API返回的数据不是一个有效的列表');
+        }
 
         // --- 开始进行数据分析 ---
         const usdtPairs = tickers
@@ -18,7 +30,7 @@ async function run() {
 
         const topGainers = usdtPairs.slice(0, 20);
         const gainers = usdtPairs.filter(t => parseFloat(t.priceChangePercent) > 0);
-        const marketSentiment = (gainers.length / usdtPairs.length) * 100;
+        const marketSentiment = (usdtPairs.length > 0) ? (gainers.length / usdtPairs.length) * 100 : 0;
         const ethTicker = tickers.find(t => t.symbol === 'ETHUSDT');
         const ethChange = ethTicker ? parseFloat(ethTicker.priceChangePercent) : null;
         // --- 数据分析结束 ---
