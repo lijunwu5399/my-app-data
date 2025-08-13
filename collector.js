@@ -40,10 +40,15 @@ async function run() {
             lastUpdated: new Date().toISOString(),
             marketSentiment: marketSentiment,
             ethChange: ethChange,
-            topGainers: topGainers.map(t => ({ // 只保留需要的数据，减小文件体积
+            topGainers: topGainers.map(t => ({ 
                 symbol: t.symbol,
                 lastPrice: t.lastPrice,
                 priceChangePercent: t.priceChangePercent
+            })),
+            // 新增：保存所有币种的简洁列表，用于更新持仓价格
+            allTickers: usdtPairs.map(t => ({
+                symbol: t.symbol,
+                lastPrice: t.lastPrice
             }))
         };
 
