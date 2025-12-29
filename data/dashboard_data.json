@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2025-12-29T20:57:38.960Z",
-  "marketSentiment": 27.14508580343214,
-  "ethChange": -0.044,
+  "lastUpdated": "2025-12-29T21:17:11.658Z",
+  "marketSentiment": 34.16536661466459,
+  "ethChange": 0.119,
   "topGainers": [
-    {
-      "symbol": "ZBTUSDT",
-      "lastPrice": "0.17180000",
-      "priceChangePercent": "67.121"
-    },
     {
       "symbol": "CREAMUSDT",
       "lastPrice": "2.10000000",
       "priceChangePercent": "65.354"
+    },
+    {
+      "symbol": "ZBTUSDT",
+      "lastPrice": "0.16850000",
+      "priceChangePercent": "64.873"
     },
     {
       "symbol": "PNTUSDT",
@@ -20,18 +20,28 @@
     },
     {
       "symbol": "ONTUSDT",
-      "lastPrice": "0.07550000",
-      "priceChangePercent": "24.587"
-    },
-    {
-      "symbol": "STRAXUSDT",
-      "lastPrice": "0.02378000",
-      "priceChangePercent": "20.405"
+      "lastPrice": "0.07580000",
+      "priceChangePercent": "25.914"
     },
     {
       "symbol": "KDAUSDT",
       "lastPrice": "0.00600000",
       "priceChangePercent": "17.647"
+    },
+    {
+      "symbol": "ZRXUSDT",
+      "lastPrice": "0.14050000",
+      "priceChangePercent": "14.321"
+    },
+    {
+      "symbol": "XVGUSDT",
+      "lastPrice": "0.00569000",
+      "priceChangePercent": "14.234"
+    },
+    {
+      "symbol": "AVNTUSDT",
+      "lastPrice": "0.40640000",
+      "priceChangePercent": "14.061"
     },
     {
       "symbol": "CLVUSDT",
@@ -44,24 +54,19 @@
       "priceChangePercent": "13.524"
     },
     {
-      "symbol": "XVGUSDT",
-      "lastPrice": "0.00565500",
-      "priceChangePercent": "13.213"
+      "symbol": "WOOUSDT",
+      "lastPrice": "0.02780000",
+      "priceChangePercent": "13.008"
     },
     {
       "symbol": "ZKCUSDT",
-      "lastPrice": "0.12370000",
-      "priceChangePercent": "12.865"
-    },
-    {
-      "symbol": "ZRXUSDT",
-      "lastPrice": "0.13840000",
-      "priceChangePercent": "12.704"
+      "lastPrice": "0.12340000",
+      "priceChangePercent": "12.591"
     },
     {
       "symbol": "LUMIAUSDT",
-      "lastPrice": "0.12000000",
-      "priceChangePercent": "12.150"
+      "lastPrice": "0.12100000",
+      "priceChangePercent": "12.037"
     },
     {
       "symbol": "WAVESUSDT",
@@ -69,14 +74,9 @@
       "priceChangePercent": "11.967"
     },
     {
-      "symbol": "AVNTUSDT",
-      "lastPrice": "0.40120000",
-      "priceChangePercent": "11.911"
-    },
-    {
-      "symbol": "WOOUSDT",
-      "lastPrice": "0.02740000",
-      "priceChangePercent": "10.931"
+      "symbol": "OGNUSDT",
+      "lastPrice": "0.03200000",
+      "priceChangePercent": "8.844"
     },
     {
       "symbol": "ELFUSDT",
@@ -99,19 +99,19 @@
       "priceChangePercent": "8.428"
     },
     {
-      "symbol": "OGNUSDT",
-      "lastPrice": "0.03180000",
-      "priceChangePercent": "8.163"
+      "symbol": "0GUSDT",
+      "lastPrice": "1.01600000",
+      "priceChangePercent": "8.200"
     }
   ],
   "allTickers": [
     {
-      "symbol": "ZBTUSDT",
-      "lastPrice": "0.17180000"
-    },
-    {
       "symbol": "CREAMUSDT",
       "lastPrice": "2.10000000"
+    },
+    {
+      "symbol": "ZBTUSDT",
+      "lastPrice": "0.16850000"
     },
     {
       "symbol": "PNTUSDT",
@@ -119,15 +119,23 @@
     },
     {
       "symbol": "ONTUSDT",
-      "lastPrice": "0.07550000"
-    },
-    {
-      "symbol": "STRAXUSDT",
-      "lastPrice": "0.02378000"
+      "lastPrice": "0.07580000"
     },
     {
       "symbol": "KDAUSDT",
       "lastPrice": "0.00600000"
+    },
+    {
+      "symbol": "ZRXUSDT",
+      "lastPrice": "0.14050000"
+    },
+    {
+      "symbol": "XVGUSDT",
+      "lastPrice": "0.00569000"
+    },
+    {
+      "symbol": "AVNTUSDT",
+      "lastPrice": "0.40640000"
     },
     {
       "symbol": "CLVUSDT",
@@ -138,32 +146,24 @@
       "lastPrice": "0.03450000"
     },
     {
-      "symbol": "XVGUSDT",
-      "lastPrice": "0.00565500"
+      "symbol": "WOOUSDT",
+      "lastPrice": "0.02780000"
     },
     {
       "symbol": "ZKCUSDT",
-      "lastPrice": "0.12370000"
-    },
-    {
-      "symbol": "ZRXUSDT",
-      "lastPrice": "0.13840000"
+      "lastPrice": "0.12340000"
     },
     {
       "symbol": "LUMIAUSDT",
-      "lastPrice": "0.12000000"
+      "lastPrice": "0.12100000"
     },
     {
       "symbol": "WAVESUSDT",
       "lastPrice": "1.07600000"
     },
     {
-      "symbol": "AVNTUSDT",
-      "lastPrice": "0.40120000"
-    },
-    {
-      "symbol": "WOOUSDT",
-      "lastPrice": "0.02740000"
+      "symbol": "OGNUSDT",
+      "lastPrice": "0.03200000"
     },
     {
       "symbol": "ELFUSDT",
@@ -182,52 +182,68 @@
       "lastPrice": "0.00191700"
     },
     {
-      "symbol": "OGNUSDT",
-      "lastPrice": "0.03180000"
-    },
-    {
-      "symbol": "TOWNSUSDT",
-      "lastPrice": "0.00634000"
-    },
-    {
       "symbol": "0GUSDT",
-      "lastPrice": "1.01200000"
+      "lastPrice": "1.01600000"
     },
     {
       "symbol": "EDUUSDT",
-      "lastPrice": "0.15040000"
+      "lastPrice": "0.15140000"
     },
     {
-      "symbol": "HIFIUSDT",
-      "lastPrice": "0.12700000"
+      "symbol": "TOWNSUSDT",
+      "lastPrice": "0.00630000"
     },
     {
-      "symbol": "ANIMEUSDT",
-      "lastPrice": "0.00789000"
+      "symbol": "HEMIUSDT",
+      "lastPrice": "0.01610000"
+    },
+    {
+      "symbol": "KERNELUSDT",
+      "lastPrice": "0.07480000"
     },
     {
       "symbol": "HAEDALUSDT",
       "lastPrice": "0.04390000"
     },
     {
+      "symbol": "HIFIUSDT",
+      "lastPrice": "0.12700000"
+    },
+    {
+      "symbol": "ENSOUSDT",
+      "lastPrice": "0.75900000"
+    },
+    {
+      "symbol": "KMNOUSDT",
+      "lastPrice": "0.05358000"
+    },
+    {
       "symbol": "ERNUSDT",
       "lastPrice": "2.18300000"
     },
     {
-      "symbol": "KMNOUSDT",
-      "lastPrice": "0.05355000"
-    },
-    {
-      "symbol": "KERNELUSDT",
-      "lastPrice": "0.07430000"
+      "symbol": "OXTUSDT",
+      "lastPrice": "0.02480000"
     },
     {
       "symbol": "PLAUSDT",
       "lastPrice": "0.23470000"
     },
     {
+      "symbol": "HIVEUSDT",
+      "lastPrice": "0.10310000"
+    },
+    {
       "symbol": "LITUSDT",
       "lastPrice": "0.74300000"
+    },
+    {
+      "symbol": "ANIMEUSDT",
+      "lastPrice": "0.00800000"
+    },
+    {
+      "symbol": "MMTUSDT",
+      "lastPrice": "0.23780000"
     },
     {
       "symbol": "XMRUSDT",
@@ -238,8 +254,12 @@
       "lastPrice": "0.12500000"
     },
     {
-      "symbol": "HEMIUSDT",
-      "lastPrice": "0.01590000"
+      "symbol": "YBUSDT",
+      "lastPrice": "0.41730000"
+    },
+    {
+      "symbol": "ZECUSDT",
+      "lastPrice": "549.06000000"
     },
     {
       "symbol": "BONDUSDT",
@@ -250,40 +270,52 @@
       "lastPrice": "0.00033700"
     },
     {
-      "symbol": "YBUSDT",
-      "lastPrice": "0.41650000"
+      "symbol": "1MBABYDOGEUSDT",
+      "lastPrice": "0.00063230"
     },
     {
-      "symbol": "HIVEUSDT",
-      "lastPrice": "0.10240000"
+      "symbol": "PARTIUSDT",
+      "lastPrice": "0.10770000"
+    },
+    {
+      "symbol": "ZENUSDT",
+      "lastPrice": "9.51400000"
     },
     {
       "symbol": "LOKAUSDT",
       "lastPrice": "0.12370000"
     },
     {
-      "symbol": "ZECUSDT",
-      "lastPrice": "546.34000000"
+      "symbol": "NEWTUSDT",
+      "lastPrice": "0.09700000"
     },
     {
-      "symbol": "MMTUSDT",
-      "lastPrice": "0.23650000"
+      "symbol": "SIGNUSDT",
+      "lastPrice": "0.03827000"
+    },
+    {
+      "symbol": "IDUSDT",
+      "lastPrice": "0.06670000"
+    },
+    {
+      "symbol": "INITUSDT",
+      "lastPrice": "0.09160000"
     },
     {
       "symbol": "COCOSUSDT",
       "lastPrice": "1.75460000"
     },
     {
-      "symbol": "ENSOUSDT",
-      "lastPrice": "0.75300000"
+      "symbol": "DUSKUSDT",
+      "lastPrice": "0.04880000"
     },
     {
-      "symbol": "OXTUSDT",
-      "lastPrice": "0.02440000"
+      "symbol": "MIRAUSDT",
+      "lastPrice": "0.14480000"
     },
     {
-      "symbol": "ZENUSDT",
-      "lastPrice": "9.41100000"
+      "symbol": "SAPIENUSDT",
+      "lastPrice": "0.12650000"
     },
     {
       "symbol": "TOMOUSDT",
@@ -302,32 +334,48 @@
       "lastPrice": "0.06520000"
     },
     {
-      "symbol": "PARTIUSDT",
-      "lastPrice": "0.10680000"
+      "symbol": "BIGTIMEUSDT",
+      "lastPrice": "0.02088000"
     },
     {
-      "symbol": "SIGNUSDT",
-      "lastPrice": "0.03810000"
+      "symbol": "TREEUSDT",
+      "lastPrice": "0.10610000"
     },
     {
-      "symbol": "SAPIENUSDT",
-      "lastPrice": "0.12650000"
+      "symbol": "QTUMUSDT",
+      "lastPrice": "1.30600000"
+    },
+    {
+      "symbol": "LAYERUSDT",
+      "lastPrice": "0.17070000"
+    },
+    {
+      "symbol": "EDENUSDT",
+      "lastPrice": "0.06660000"
+    },
+    {
+      "symbol": "XPLUSDT",
+      "lastPrice": "0.15990000"
+    },
+    {
+      "symbol": "TSTUSDT",
+      "lastPrice": "0.01810000"
     },
     {
       "symbol": "BNXUSDT",
       "lastPrice": "1.78190000"
     },
     {
-      "symbol": "DUSKUSDT",
-      "lastPrice": "0.04840000"
+      "symbol": "STEEMUSDT",
+      "lastPrice": "0.07170000"
+    },
+    {
+      "symbol": "NOMUSDT",
+      "lastPrice": "0.00793000"
     },
     {
       "symbol": "TRXUPUSDT",
       "lastPrice": "0.03854000"
-    },
-    {
-      "symbol": "XPLUSDT",
-      "lastPrice": "0.15890000"
     },
     {
       "symbol": "LTOUSDT",
@@ -338,128 +386,152 @@
       "lastPrice": "0.00068800"
     },
     {
+      "symbol": "FILUSDT",
+      "lastPrice": "1.34700000"
+    },
+    {
+      "symbol": "IOUSDT",
+      "lastPrice": "0.15400000"
+    },
+    {
+      "symbol": "NILUSDT",
+      "lastPrice": "0.07530000"
+    },
+    {
       "symbol": "RNDRUSDT",
       "lastPrice": "7.03000000"
     },
     {
-      "symbol": "NEWTUSDT",
-      "lastPrice": "0.09580000"
+      "symbol": "RDNTUSDT",
+      "lastPrice": "0.00999000"
     },
     {
       "symbol": "BTTCUSDT",
       "lastPrice": "0.00000040"
     },
     {
-      "symbol": "1MBABYDOGEUSDT",
-      "lastPrice": "0.00062790"
+      "symbol": "NEOUSDT",
+      "lastPrice": "3.77200000"
     },
     {
-      "symbol": "LAYERUSDT",
-      "lastPrice": "0.16960000"
+      "symbol": "CHZUSDT",
+      "lastPrice": "0.03684000"
     },
     {
-      "symbol": "STOUSDT",
-      "lastPrice": "0.08110000"
+      "symbol": "CTSIUSDT",
+      "lastPrice": "0.03300000"
     },
     {
-      "symbol": "XTZUSDT",
-      "lastPrice": "0.49700000"
+      "symbol": "TURTLEUSDT",
+      "lastPrice": "0.06190000"
     },
     {
-      "symbol": "IDUSDT",
-      "lastPrice": "0.06610000"
+      "symbol": "ONGUSDT",
+      "lastPrice": "0.08740000"
+    },
+    {
+      "symbol": "GLMUSDT",
+      "lastPrice": "0.20510000"
+    },
+    {
+      "symbol": "CHESSUSDT",
+      "lastPrice": "0.03526000"
+    },
+    {
+      "symbol": "FIDAUSDT",
+      "lastPrice": "0.04280000"
+    },
+    {
+      "symbol": "CVCUSDT",
+      "lastPrice": "0.04206000"
     },
     {
       "symbol": "YFIIUSDT",
       "lastPrice": "435.50000000"
     },
     {
-      "symbol": "INITUSDT",
-      "lastPrice": "0.09050000"
+      "symbol": "XTZUSDT",
+      "lastPrice": "0.49850000"
     },
     {
-      "symbol": "GLMUSDT",
-      "lastPrice": "0.20460000"
+      "symbol": "BELUSDT",
+      "lastPrice": "0.12860000"
+    },
+    {
+      "symbol": "OPENUSDT",
+      "lastPrice": "0.16150000"
     },
     {
       "symbol": "STPTUSDT",
       "lastPrice": "0.07042000"
     },
     {
+      "symbol": "KITEUSDT",
+      "lastPrice": "0.09330000"
+    },
+    {
       "symbol": "BAKEUSDT",
       "lastPrice": "0.05190000"
     },
     {
-      "symbol": "NILUSDT",
-      "lastPrice": "0.07560000"
-    },
-    {
-      "symbol": "STEEMUSDT",
-      "lastPrice": "0.07130000"
+      "symbol": "PROVEUSDT",
+      "lastPrice": "0.40460000"
     },
     {
       "symbol": "MCUSDT",
       "lastPrice": "0.48610000"
     },
     {
-      "symbol": "TREEUSDT",
-      "lastPrice": "0.10520000"
+      "symbol": "IOSTUSDT",
+      "lastPrice": "0.00162800"
+    },
+    {
+      "symbol": "SSVUSDT",
+      "lastPrice": "3.85100000"
     },
     {
       "symbol": "OGUSDT",
-      "lastPrice": "11.83100000"
-    },
-    {
-      "symbol": "CHESSUSDT",
-      "lastPrice": "0.03514000"
+      "lastPrice": "11.81700000"
     },
     {
       "symbol": "DARUSDT",
       "lastPrice": "0.21707000"
     },
     {
-      "symbol": "CVCUSDT",
-      "lastPrice": "0.04198000"
-    },
-    {
-      "symbol": "DCRUSDT",
-      "lastPrice": "19.09000000"
+      "symbol": "MDTUSDT",
+      "lastPrice": "0.01367000"
     },
     {
       "symbol": "FRONTUSDT",
       "lastPrice": "0.88000000"
     },
     {
-      "symbol": "BIGTIMEUSDT",
-      "lastPrice": "0.02072000"
+      "symbol": "TWTUSDT",
+      "lastPrice": "0.86940000"
     },
     {
-      "symbol": "NEOUSDT",
-      "lastPrice": "3.75700000"
+      "symbol": "ACTUSDT",
+      "lastPrice": "0.04330000"
     },
     {
       "symbol": "KMDUSDT",
       "lastPrice": "0.01630000"
     },
     {
-      "symbol": "KITEUSDT",
-      "lastPrice": "0.09310000"
+      "symbol": "SFPUSDT",
+      "lastPrice": "0.31410000"
     },
     {
-      "symbol": "CTSIUSDT",
-      "lastPrice": "0.03290000"
+      "symbol": "RONINUSDT",
+      "lastPrice": "0.12940000"
     },
     {
-      "symbol": "EDENUSDT",
-      "lastPrice": "0.06580000"
+      "symbol": "BERAUSDT",
+      "lastPrice": "0.62700000"
     },
     {
-      "symbol": "QTUMUSDT",
-      "lastPrice": "1.29700000"
-    },
-    {
-      "symbol": "TSTUSDT",
-      "lastPrice": "0.01798000"
+      "symbol": "STOUSDT",
+      "lastPrice": "0.08120000"
     },
     {
       "symbol": "HNTUSDT",
@@ -474,132 +546,200 @@
       "lastPrice": "1.05300000"
     },
     {
-      "symbol": "SSVUSDT",
-      "lastPrice": "3.82800000"
-    },
-    {
-      "symbol": "CHZUSDT",
-      "lastPrice": "0.03662000"
-    },
-    {
-      "symbol": "ONGUSDT",
-      "lastPrice": "0.08670000"
-    },
-    {
-      "symbol": "FILUSDT",
-      "lastPrice": "1.34000000"
-    },
-    {
-      "symbol": "TURTLEUSDT",
-      "lastPrice": "0.06120000"
-    },
-    {
-      "symbol": "GALUSDT",
-      "lastPrice": "2.54200000"
-    },
-    {
-      "symbol": "RDNTUSDT",
-      "lastPrice": "0.00994000"
-    },
-    {
-      "symbol": "ACTUSDT",
-      "lastPrice": "0.04340000"
-    },
-    {
-      "symbol": "SCRUSDT",
-      "lastPrice": "0.07500000"
-    },
-    {
-      "symbol": "IOUSDT",
-      "lastPrice": "0.15200000"
-    },
-    {
-      "symbol": "2ZUSDT",
-      "lastPrice": "0.11588000"
-    },
-    {
-      "symbol": "BERAUSDT",
-      "lastPrice": "0.62300000"
-    },
-    {
-      "symbol": "MIRAUSDT",
-      "lastPrice": "0.14250000"
-    },
-    {
-      "symbol": "SFPUSDT",
-      "lastPrice": "0.31260000"
-    },
-    {
-      "symbol": "RONINUSDT",
-      "lastPrice": "0.12900000"
-    },
-    {
-      "symbol": "IOSTUSDT",
-      "lastPrice": "0.00161500"
-    },
-    {
-      "symbol": "BELUSDT",
-      "lastPrice": "0.12780000"
+      "symbol": "ONEUSDT",
+      "lastPrice": "0.00376000"
     },
     {
       "symbol": "FARMUSDT",
       "lastPrice": "19.04000000"
     },
     {
-      "symbol": "TWTUSDT",
-      "lastPrice": "0.86490000"
-    },
-    {
-      "symbol": "JSTUSDT",
-      "lastPrice": "0.03932000"
-    },
-    {
       "symbol": "BIOUSDT",
-      "lastPrice": "0.04480000"
+      "lastPrice": "0.04500000"
     },
     {
-      "symbol": "MDTUSDT",
-      "lastPrice": "0.01357000"
+      "symbol": "LSKUSDT",
+      "lastPrice": "0.19400000"
+    },
+    {
+      "symbol": "GALUSDT",
+      "lastPrice": "2.54200000"
+    },
+    {
+      "symbol": "CUSDT",
+      "lastPrice": "0.08960000"
     },
     {
       "symbol": "SLPUSDT",
-      "lastPrice": "0.00076500"
+      "lastPrice": "0.00076800"
     },
     {
-      "symbol": "PROVEUSDT",
-      "lastPrice": "0.40060000"
+      "symbol": "ASRUSDT",
+      "lastPrice": "1.49000000"
+    },
+    {
+      "symbol": "RIFUSDT",
+      "lastPrice": "0.03550000"
+    },
+    {
+      "symbol": "1000CHEEMSUSDT",
+      "lastPrice": "0.00099700"
+    },
+    {
+      "symbol": "PIVXUSDT",
+      "lastPrice": "0.12970000"
+    },
+    {
+      "symbol": "SCRUSDT",
+      "lastPrice": "0.07500000"
+    },
+    {
+      "symbol": "MUBARAKUSDT",
+      "lastPrice": "0.01592000"
+    },
+    {
+      "symbol": "BNTUSDT",
+      "lastPrice": "0.40350000"
+    },
+    {
+      "symbol": "BROCCOLI714USDT",
+      "lastPrice": "0.01226000"
+    },
+    {
+      "symbol": "ARKUSDT",
+      "lastPrice": "0.26410000"
+    },
+    {
+      "symbol": "WAXPUSDT",
+      "lastPrice": "0.00779000"
+    },
+    {
+      "symbol": "KAITOUSDT",
+      "lastPrice": "0.53350000"
+    },
+    {
+      "symbol": "JSTUSDT",
+      "lastPrice": "0.03938000"
+    },
+    {
+      "symbol": "DFUSDT",
+      "lastPrice": "0.01106000"
+    },
+    {
+      "symbol": "METUSDT",
+      "lastPrice": "0.25570000"
+    },
+    {
+      "symbol": "BANDUSDT",
+      "lastPrice": "0.32800000"
+    },
+    {
+      "symbol": "XAIUSDT",
+      "lastPrice": "0.01578000"
+    },
+    {
+      "symbol": "MTLUSDT",
+      "lastPrice": "0.35400000"
+    },
+    {
+      "symbol": "TURBOUSDT",
+      "lastPrice": "0.00170400"
+    },
+    {
+      "symbol": "YGGUSDT",
+      "lastPrice": "0.06520000"
+    },
+    {
+      "symbol": "NTRNUSDT",
+      "lastPrice": "0.02820000"
+    },
+    {
+      "symbol": "CELRUSDT",
+      "lastPrice": "0.00382200"
+    },
+    {
+      "symbol": "AIUSDT",
+      "lastPrice": "0.03890000"
+    },
+    {
+      "symbol": "CKBUSDT",
+      "lastPrice": "0.00247000"
+    },
+    {
+      "symbol": "DENTUSDT",
+      "lastPrice": "0.00020400"
+    },
+    {
+      "symbol": "DEXEUSDT",
+      "lastPrice": "3.07400000"
     },
     {
       "symbol": "KLAYUSDT",
       "lastPrice": "0.12550000"
     },
     {
-      "symbol": "FIDAUSDT",
-      "lastPrice": "0.04240000"
-    },
-    {
-      "symbol": "NOMUSDT",
-      "lastPrice": "0.00782000"
-    },
-    {
-      "symbol": "METUSDT",
-      "lastPrice": "0.25460000"
-    },
-    {
       "symbol": "GNSUSDT",
-      "lastPrice": "1.11500000"
+      "lastPrice": "1.11800000"
     },
     {
-      "symbol": "ONEUSDT",
-      "lastPrice": "0.00373000"
+      "symbol": "DCRUSDT",
+      "lastPrice": "19.15000000"
     },
     {
-      "symbol": "PIVXUSDT",
-      "lastPrice": "0.12910000"
+      "symbol": "ARDRUSDT",
+      "lastPrice": "0.05821000"
+    },
+    {
+      "symbol": "BARDUSDT",
+      "lastPrice": "0.79950000"
+    },
+    {
+      "symbol": "GNOUSDT",
+      "lastPrice": "126.10000000"
+    },
+    {
+      "symbol": "LDOUSDT",
+      "lastPrice": "0.58400000"
+    },
+    {
+      "symbol": "NFPUSDT",
+      "lastPrice": "0.02370000"
+    },
+    {
+      "symbol": "ZILUSDT",
+      "lastPrice": "0.00481000"
+    },
+    {
+      "symbol": "MANTAUSDT",
+      "lastPrice": "0.07460000"
+    },
+    {
+      "symbol": "ZKUSDT",
+      "lastPrice": "0.02984000"
+    },
+    {
+      "symbol": "USUALUSDT",
+      "lastPrice": "0.02510000"
+    },
+    {
+      "symbol": "EULUSDT",
+      "lastPrice": "2.89300000"
+    },
+    {
+      "symbol": "PORTOUSDT",
+      "lastPrice": "1.04300000"
+    },
+    {
+      "symbol": "ENAUSDT",
+      "lastPrice": "0.20880000"
     },
     {
       "symbol": "MKRUSDT",
       "lastPrice": "1813.70000000"
+    },
+    {
+      "symbol": "DUSDT",
+      "lastPrice": "0.01466000"
     },
     {
       "symbol": "BTSUSDT",
@@ -610,192 +750,232 @@
       "lastPrice": "61.80000000"
     },
     {
-      "symbol": "BNTUSDT",
-      "lastPrice": "0.40120000"
+      "symbol": "SOPHUSDT",
+      "lastPrice": "0.01259000"
     },
     {
-      "symbol": "1000CHEEMSUSDT",
-      "lastPrice": "0.00099500"
+      "symbol": "WCTUSDT",
+      "lastPrice": "0.07290000"
     },
     {
-      "symbol": "OPENUSDT",
-      "lastPrice": "0.15950000"
-    },
-    {
-      "symbol": "ARKUSDT",
-      "lastPrice": "0.26200000"
-    },
-    {
-      "symbol": "WAXPUSDT",
-      "lastPrice": "0.00773000"
+      "symbol": "NEXOUSDT",
+      "lastPrice": "0.90700000"
     },
     {
       "symbol": "XRPDOWNUSDT",
       "lastPrice": "0.00008172"
     },
     {
-      "symbol": "ASRUSDT",
-      "lastPrice": "1.48200000"
+      "symbol": "SHELLUSDT",
+      "lastPrice": "0.04940000"
+    },
+    {
+      "symbol": "TKOUSDT",
+      "lastPrice": "0.08280000"
     },
     {
       "symbol": "BTCUPUSDT",
       "lastPrice": "16.60000000"
     },
     {
-      "symbol": "MTLUSDT",
-      "lastPrice": "0.35300000"
+      "symbol": "A2ZUSDT",
+      "lastPrice": "0.00135800"
     },
     {
-      "symbol": "RIFUSDT",
-      "lastPrice": "0.03530000"
+      "symbol": "ATAUSDT",
+      "lastPrice": "0.01750000"
     },
     {
-      "symbol": "CUSDT",
-      "lastPrice": "0.08870000"
-    },
-    {
-      "symbol": "BARDUSDT",
-      "lastPrice": "0.79840000"
+      "symbol": "XNOUSDT",
+      "lastPrice": "0.71100000"
     },
     {
       "symbol": "LINKDOWNUSDT",
       "lastPrice": "0.00089500"
     },
     {
+      "symbol": "ALLOUSDT",
+      "lastPrice": "0.11360000"
+    },
+    {
       "symbol": "POLYUSDT",
       "lastPrice": "0.26960000"
     },
     {
-      "symbol": "TKOUSDT",
-      "lastPrice": "0.08250000"
+      "symbol": "2ZUSDT",
+      "lastPrice": "0.11593000"
     },
     {
-      "symbol": "ENAUSDT",
-      "lastPrice": "0.20790000"
+      "symbol": "TRUMPUSDT",
+      "lastPrice": "4.93500000"
+    },
+    {
+      "symbol": "TNSRUSDT",
+      "lastPrice": "0.07990000"
+    },
+    {
+      "symbol": "PIXELUSDT",
+      "lastPrice": "0.00802000"
+    },
+    {
+      "symbol": "OPUSDT",
+      "lastPrice": "0.27150000"
     },
     {
       "symbol": "BNBDOWNUSDT",
       "lastPrice": "0.00215100"
     },
     {
-      "symbol": "DFUSDT",
-      "lastPrice": "0.01099000"
+      "symbol": "EPICUSDT",
+      "lastPrice": "0.73000000"
     },
     {
-      "symbol": "LDOUSDT",
-      "lastPrice": "0.58180000"
+      "symbol": "WANUSDT",
+      "lastPrice": "0.07360000"
     },
     {
-      "symbol": "KAITOUSDT",
-      "lastPrice": "0.52990000"
+      "symbol": "LTCUSDT",
+      "lastPrice": "78.31000000"
     },
     {
-      "symbol": "MANTAUSDT",
-      "lastPrice": "0.07470000"
+      "symbol": "RUNEUSDT",
+      "lastPrice": "0.55200000"
     },
     {
-      "symbol": "USUALUSDT",
-      "lastPrice": "0.02500000"
+      "symbol": "VICUSDT",
+      "lastPrice": "0.08800000"
     },
     {
-      "symbol": "PORTOUSDT",
-      "lastPrice": "1.04100000"
+      "symbol": "ZROUSDT",
+      "lastPrice": "1.24500000"
     },
     {
-      "symbol": "ALLOUSDT",
-      "lastPrice": "0.11310000"
+      "symbol": "AUSDT",
+      "lastPrice": "0.15630000"
     },
     {
-      "symbol": "ARDRUSDT",
-      "lastPrice": "0.05773000"
-    },
-    {
-      "symbol": "TURBOUSDT",
-      "lastPrice": "0.00169500"
-    },
-    {
-      "symbol": "ZKUSDT",
-      "lastPrice": "0.02969000"
-    },
-    {
-      "symbol": "CELRUSDT",
-      "lastPrice": "0.00379100"
+      "symbol": "AEURUSDT",
+      "lastPrice": "1.15430000"
     },
     {
       "symbol": "REQUSDT",
-      "lastPrice": "0.10300000"
+      "lastPrice": "0.10320000"
     },
     {
-      "symbol": "EULUSDT",
-      "lastPrice": "2.87300000"
+      "symbol": "AVAUSDT",
+      "lastPrice": "0.28150000"
+    },
+    {
+      "symbol": "STGUSDT",
+      "lastPrice": "0.10690000"
+    },
+    {
+      "symbol": "ALCXUSDT",
+      "lastPrice": "7.61000000"
+    },
+    {
+      "symbol": "UTKUSDT",
+      "lastPrice": "0.01237000"
+    },
+    {
+      "symbol": "XVSUSDT",
+      "lastPrice": "4.38000000"
+    },
+    {
+      "symbol": "REZUSDT",
+      "lastPrice": "0.00456000"
+    },
+    {
+      "symbol": "RAYUSDT",
+      "lastPrice": "0.92300000"
+    },
+    {
+      "symbol": "PENDLEUSDT",
+      "lastPrice": "1.87900000"
+    },
+    {
+      "symbol": "NMRUSDT",
+      "lastPrice": "9.49000000"
+    },
+    {
+      "symbol": "SYNUSDT",
+      "lastPrice": "0.05060000"
+    },
+    {
+      "symbol": "SUIUSDT",
+      "lastPrice": "1.44060000"
+    },
+    {
+      "symbol": "VETUSDT",
+      "lastPrice": "0.01107000"
     },
     {
       "symbol": "BLZUSDT",
       "lastPrice": "0.05820000"
     },
     {
+      "symbol": "WBETHUSDT",
+      "lastPrice": "3193.46000000"
+    },
+    {
       "symbol": "LINKUPUSDT",
       "lastPrice": "0.00608000"
     },
     {
-      "symbol": "ZROUSDT",
-      "lastPrice": "1.24400000"
+      "symbol": "CATIUSDT",
+      "lastPrice": "0.06070000"
     },
     {
-      "symbol": "WCTUSDT",
-      "lastPrice": "0.07250000"
+      "symbol": "HYPERUSDT",
+      "lastPrice": "0.12230000"
     },
     {
-      "symbol": "CKBUSDT",
-      "lastPrice": "0.00245300"
+      "symbol": "KSMUSDT",
+      "lastPrice": "7.13000000"
     },
     {
-      "symbol": "NEXOUSDT",
-      "lastPrice": "0.90400000"
+      "symbol": "IQUSDT",
+      "lastPrice": "0.00153400"
+    },
+    {
+      "symbol": "ETHUSDT",
+      "lastPrice": "2937.24000000"
+    },
+    {
+      "symbol": "XECUSDT",
+      "lastPrice": "0.00001057"
     },
     {
       "symbol": "USDPUSDT",
       "lastPrice": "1.00110000"
     },
     {
-      "symbol": "SUIUSDT",
-      "lastPrice": "1.43880000"
+      "symbol": "MANAUSDT",
+      "lastPrice": "0.12190000"
     },
     {
-      "symbol": "BROCCOLI714USDT",
-      "lastPrice": "0.01212000"
-    },
-    {
-      "symbol": "A2ZUSDT",
-      "lastPrice": "0.00135000"
-    },
-    {
-      "symbol": "XAIUSDT",
-      "lastPrice": "0.01562000"
-    },
-    {
-      "symbol": "USDCUSDT",
-      "lastPrice": "1.00090000"
-    },
-    {
-      "symbol": "TVKUSDT",
-      "lastPrice": "0.05405000"
+      "symbol": "SYSUSDT",
+      "lastPrice": "0.01752000"
     },
     {
       "symbol": "FDUSDUSDT",
       "lastPrice": "0.99930000"
     },
     {
+      "symbol": "TVKUSDT",
+      "lastPrice": "0.05405000"
+    },
+    {
+      "symbol": "USDCUSDT",
+      "lastPrice": "1.00080000"
+    },
+    {
       "symbol": "XUSDUSDT",
       "lastPrice": "1.00090000"
     },
     {
-      "symbol": "TRUMPUSDT",
-      "lastPrice": "4.91500000"
-    },
-    {
       "symbol": "BFUSDUSDT",
-      "lastPrice": "0.99970000"
+      "lastPrice": "0.99980000"
     },
     {
       "symbol": "USDEUSDT",
@@ -846,16 +1026,8 @@
       "lastPrice": "0.00000000"
     },
     {
-      "symbol": "DENTUSDT",
-      "lastPrice": "0.00020400"
-    },
-    {
       "symbol": "STORMUSDT",
       "lastPrice": "0.00000000"
-    },
-    {
-      "symbol": "BANDUSDT",
-      "lastPrice": "0.32600000"
     },
     {
       "symbol": "HCUSDT",
@@ -880,10 +1052,6 @@
     {
       "symbol": "ETHBEARUSDT",
       "lastPrice": "0.00000000"
-    },
-    {
-      "symbol": "LSKUSDT",
-      "lastPrice": "0.19200000"
     },
     {
       "symbol": "EOSBULLUSDT",
@@ -940,10 +1108,6 @@
     {
       "symbol": "XTZDOWNUSDT",
       "lastPrice": "0.00000000"
-    },
-    {
-      "symbol": "NMRUSDT",
-      "lastPrice": "9.45000000"
     },
     {
       "symbol": "BZRXUSDT",
@@ -1058,16 +1222,12 @@
       "lastPrice": "0.00000000"
     },
     {
+      "symbol": "C98USDT",
+      "lastPrice": "0.02260000"
+    },
+    {
       "symbol": "GHSTUSDT",
       "lastPrice": "0.17500000"
-    },
-    {
-      "symbol": "YGGUSDT",
-      "lastPrice": "0.06450000"
-    },
-    {
-      "symbol": "RADUSDT",
-      "lastPrice": "0.26600000"
     },
     {
       "symbol": "RGTUSDT",
@@ -1078,352 +1238,440 @@
       "lastPrice": "0.00000000"
     },
     {
+      "symbol": "HIGHUSDT",
+      "lastPrice": "0.21400000"
+    },
+    {
       "symbol": "USTUSDT",
       "lastPrice": "0.00000000"
     },
     {
-      "symbol": "IQUSDT",
-      "lastPrice": "0.00153100"
+      "symbol": "HFTUSDT",
+      "lastPrice": "0.02800000"
     },
     {
-      "symbol": "NFPUSDT",
-      "lastPrice": "0.02350000"
+      "symbol": "RPLUSDT",
+      "lastPrice": "1.95000000"
     },
     {
-      "symbol": "CATIUSDT",
-      "lastPrice": "0.06070000"
+      "symbol": "JTOUSDT",
+      "lastPrice": "0.38800000"
     },
     {
-      "symbol": "EPICUSDT",
-      "lastPrice": "0.72700000"
+      "symbol": "ALTUSDT",
+      "lastPrice": "0.01175000"
+    },
+    {
+      "symbol": "AEVOUSDT",
+      "lastPrice": "0.03780000"
+    },
+    {
+      "symbol": "RENDERUSDT",
+      "lastPrice": "1.30600000"
+    },
+    {
+      "symbol": "MOVEUSDT",
+      "lastPrice": "0.03540000"
+    },
+    {
+      "symbol": "SOLVUSDT",
+      "lastPrice": "0.01456000"
     },
     {
       "symbol": "SXTUSDT",
-      "lastPrice": "0.02450000"
+      "lastPrice": "0.02460000"
     },
     {
       "symbol": "USD1USDT",
       "lastPrice": "1.00100000"
     },
     {
-      "symbol": "SOPHUSDT",
-      "lastPrice": "0.01252000"
-    },
-    {
       "symbol": "MORPHOUSDT",
-      "lastPrice": "1.16500000"
+      "lastPrice": "1.16900000"
     },
     {
-      "symbol": "TUSDUSDT",
-      "lastPrice": "0.99880000"
+      "symbol": "CRVUSDT",
+      "lastPrice": "0.38780000"
+    },
+    {
+      "symbol": "NEIROUSDT",
+      "lastPrice": "0.00010807"
     },
     {
       "symbol": "BUSDUSDT",
       "lastPrice": "1.00030000"
     },
     {
-      "symbol": "ETHUSDT",
-      "lastPrice": "2931.57000000"
+      "symbol": "TUSDUSDT",
+      "lastPrice": "0.99870000"
     },
     {
-      "symbol": "MUBARAKUSDT",
-      "lastPrice": "0.01573000"
+      "symbol": "EURIUSDT",
+      "lastPrice": "1.17850000"
     },
     {
-      "symbol": "SOLVUSDT",
-      "lastPrice": "0.01455000"
+      "symbol": "FUNUSDT",
+      "lastPrice": "0.00174200"
     },
     {
       "symbol": "UNFIUSDT",
       "lastPrice": "1.34100000"
     },
     {
-      "symbol": "AEURUSDT",
-      "lastPrice": "1.15010000"
-    },
-    {
-      "symbol": "STGUSDT",
-      "lastPrice": "0.10660000"
-    },
-    {
-      "symbol": "DEXEUSDT",
-      "lastPrice": "3.05100000"
-    },
-    {
       "symbol": "EURUSDT",
-      "lastPrice": "1.17800000"
+      "lastPrice": "1.17860000"
     },
     {
-      "symbol": "EURIUSDT",
-      "lastPrice": "1.17780000"
+      "symbol": "SANDUSDT",
+      "lastPrice": "0.11460000"
     },
     {
-      "symbol": "WBETHUSDT",
-      "lastPrice": "3185.46000000"
+      "symbol": "BNSOLUSDT",
+      "lastPrice": "134.80000000"
     },
     {
-      "symbol": "TNSRUSDT",
-      "lastPrice": "0.07950000"
+      "symbol": "COSUSDT",
+      "lastPrice": "0.00122100"
     },
     {
-      "symbol": "GNOUSDT",
-      "lastPrice": "124.83000000"
+      "symbol": "ALPINEUSDT",
+      "lastPrice": "0.59000000"
     },
     {
-      "symbol": "PENDLEUSDT",
-      "lastPrice": "1.87100000"
+      "symbol": "SOLUSDT",
+      "lastPrice": "123.45000000"
     },
     {
-      "symbol": "HYPERUSDT",
-      "lastPrice": "0.12160000"
+      "symbol": "ALICEUSDT",
+      "lastPrice": "0.16860000"
     },
     {
-      "symbol": "LTCUSDT",
-      "lastPrice": "77.99000000"
+      "symbol": "BARUSDT",
+      "lastPrice": "0.55700000"
     },
     {
-      "symbol": "RUNEUSDT",
-      "lastPrice": "0.54900000"
+      "symbol": "DOGEUSDT",
+      "lastPrice": "0.12281000"
     },
     {
-      "symbol": "DUSDT",
-      "lastPrice": "0.01453000"
+      "symbol": "OSMOUSDT",
+      "lastPrice": "0.05110000"
     },
     {
-      "symbol": "AVAUSDT",
-      "lastPrice": "0.28040000"
+      "symbol": "POLYXUSDT",
+      "lastPrice": "0.05060000"
+    },
+    {
+      "symbol": "MLNUSDT",
+      "lastPrice": "4.77000000"
+    },
+    {
+      "symbol": "TRXUSDT",
+      "lastPrice": "0.28410000"
     },
     {
       "symbol": "DOTUSDT",
-      "lastPrice": "1.83400000"
+      "lastPrice": "1.83800000"
     },
     {
-      "symbol": "REZUSDT",
-      "lastPrice": "0.00456000"
+      "symbol": "WBTCUSDT",
+      "lastPrice": "87198.29000000"
     },
     {
       "symbol": "GUSDT",
       "lastPrice": "0.00445000"
     },
     {
-      "symbol": "XVSUSDT",
-      "lastPrice": "4.37000000"
+      "symbol": "POWRUSDT",
+      "lastPrice": "0.08190000"
     },
     {
       "symbol": "TRIBEUSDT",
       "lastPrice": "0.20180000"
     },
     {
-      "symbol": "AUSDT",
-      "lastPrice": "0.15540000"
+      "symbol": "BTCUSDT",
+      "lastPrice": "87365.95000000"
     },
     {
-      "symbol": "SOLUSDT",
-      "lastPrice": "123.11000000"
-    },
-    {
-      "symbol": "OPUSDT",
-      "lastPrice": "0.27000000"
-    },
-    {
-      "symbol": "AIUSDT",
-      "lastPrice": "0.03850000"
+      "symbol": "ENJUSDT",
+      "lastPrice": "0.02776000"
     },
     {
       "symbol": "TRXDOWNUSDT",
       "lastPrice": "1.13900000"
     },
     {
-      "symbol": "WANUSDT",
-      "lastPrice": "0.07340000"
+      "symbol": "SEIUSDT",
+      "lastPrice": "0.11350000"
+    },
+    {
+      "symbol": "SCRTUSDT",
+      "lastPrice": "0.10580000"
+    },
+    {
+      "symbol": "HMSTRUSDT",
+      "lastPrice": "0.00021080"
     },
     {
       "symbol": "MATICUSDT",
       "lastPrice": "0.37940000"
     },
     {
-      "symbol": "BNSOLUSDT",
-      "lastPrice": "134.30000000"
+      "symbol": "TLMUSDT",
+      "lastPrice": "0.00205500"
     },
     {
-      "symbol": "TRXUSDT",
-      "lastPrice": "0.28390000"
+      "symbol": "JOEUSDT",
+      "lastPrice": "0.06250000"
     },
     {
-      "symbol": "RAYUSDT",
-      "lastPrice": "0.91900000"
-    },
-    {
-      "symbol": "SEIUSDT",
-      "lastPrice": "0.11350000"
-    },
-    {
-      "symbol": "HFTUSDT",
-      "lastPrice": "0.02790000"
-    },
-    {
-      "symbol": "BTCUSDT",
-      "lastPrice": "87233.52000000"
+      "symbol": "KAIAUSDT",
+      "lastPrice": "0.05600000"
     },
     {
       "symbol": "AGIXUSDT",
       "lastPrice": "0.61410000"
     },
     {
+      "symbol": "MINAUSDT",
+      "lastPrice": "0.07940000"
+    },
+    {
+      "symbol": "LAUSDT",
+      "lastPrice": "0.29170000"
+    },
+    {
       "symbol": "ANTUSDT",
       "lastPrice": "7.40700000"
-    },
-    {
-      "symbol": "RENDERUSDT",
-      "lastPrice": "1.30000000"
-    },
-    {
-      "symbol": "WBTCUSDT",
-      "lastPrice": "87018.40000000"
-    },
-    {
-      "symbol": "POLYXUSDT",
-      "lastPrice": "0.05050000"
-    },
-    {
-      "symbol": "MANAUSDT",
-      "lastPrice": "0.12150000"
-    },
-    {
-      "symbol": "KSMUSDT",
-      "lastPrice": "7.10000000"
-    },
-    {
-      "symbol": "XRPUSDT",
-      "lastPrice": "1.85020000"
-    },
-    {
-      "symbol": "CRVUSDT",
-      "lastPrice": "0.38650000"
-    },
-    {
-      "symbol": "VETUSDT",
-      "lastPrice": "0.01101000"
-    },
-    {
-      "symbol": "VICUSDT",
-      "lastPrice": "0.08750000"
-    },
-    {
-      "symbol": "CTXCUSDT",
-      "lastPrice": "0.06340000"
-    },
-    {
-      "symbol": "LINKUSDT",
-      "lastPrice": "12.29000000"
-    },
-    {
-      "symbol": "UTKUSDT",
-      "lastPrice": "0.01228000"
-    },
-    {
-      "symbol": "COSUSDT",
-      "lastPrice": "0.00121500"
-    },
-    {
-      "symbol": "PONDUSDT",
-      "lastPrice": "0.00401000"
-    },
-    {
-      "symbol": "BARUSDT",
-      "lastPrice": "0.55600000"
-    },
-    {
-      "symbol": "ATAUSDT",
-      "lastPrice": "0.01730000"
-    },
-    {
-      "symbol": "DOGEUSDT",
-      "lastPrice": "0.12256000"
-    },
-    {
-      "symbol": "OSMOUSDT",
-      "lastPrice": "0.05090000"
-    },
-    {
-      "symbol": "GBPUSDT",
-      "lastPrice": "1.18000000"
-    },
-    {
-      "symbol": "ALICEUSDT",
-      "lastPrice": "0.16770000"
-    },
-    {
-      "symbol": "SANDUSDT",
-      "lastPrice": "0.11400000"
-    },
-    {
-      "symbol": "KGSTUSDT",
-      "lastPrice": "0.01139000"
     },
     {
       "symbol": "COMPUSDT",
       "lastPrice": "25.77000000"
     },
     {
-      "symbol": "ZILUSDT",
-      "lastPrice": "0.00475000"
+      "symbol": "PHBUSDT",
+      "lastPrice": "0.25200000"
+    },
+    {
+      "symbol": "LINKUSDT",
+      "lastPrice": "12.31000000"
+    },
+    {
+      "symbol": "ENSUSDT",
+      "lastPrice": "9.66000000"
+    },
+    {
+      "symbol": "YFIUSDT",
+      "lastPrice": "3347.00000000"
+    },
+    {
+      "symbol": "PEOPLEUSDT",
+      "lastPrice": "0.00943000"
+    },
+    {
+      "symbol": "CGPTUSDT",
+      "lastPrice": "0.02935000"
+    },
+    {
+      "symbol": "TRBUSDT",
+      "lastPrice": "20.09000000"
+    },
+    {
+      "symbol": "PLUMEUSDT",
+      "lastPrice": "0.01729000"
+    },
+    {
+      "symbol": "CTXCUSDT",
+      "lastPrice": "0.06340000"
+    },
+    {
+      "symbol": "AWEUSDT",
+      "lastPrice": "0.05479000"
+    },
+    {
+      "symbol": "PSGUSDT",
+      "lastPrice": "0.82300000"
+    },
+    {
+      "symbol": "XRPUSDT",
+      "lastPrice": "1.85070000"
+    },
+    {
+      "symbol": "DOGSUSDT",
+      "lastPrice": "0.00004030"
+    },
+    {
+      "symbol": "PONDUSDT",
+      "lastPrice": "0.00401000"
+    },
+    {
+      "symbol": "SPELLUSDT",
+      "lastPrice": "0.00024090"
+    },
+    {
+      "symbol": "TFUELUSDT",
+      "lastPrice": "0.01758000"
+    },
+    {
+      "symbol": "FORTHUSDT",
+      "lastPrice": "1.56100000"
+    },
+    {
+      "symbol": "BIFIUSDT",
+      "lastPrice": "211.90000000"
+    },
+    {
+      "symbol": "LPTUSDT",
+      "lastPrice": "2.86200000"
+    },
+    {
+      "symbol": "VIRTUALUSDT",
+      "lastPrice": "0.68640000"
+    },
+    {
+      "symbol": "KGSTUSDT",
+      "lastPrice": "0.01138000"
+    },
+    {
+      "symbol": "HOOKUSDT",
+      "lastPrice": "0.03770000"
+    },
+    {
+      "symbol": "BNBUSDT",
+      "lastPrice": "854.00000000"
+    },
+    {
+      "symbol": "ICXUSDT",
+      "lastPrice": "0.05470000"
+    },
+    {
+      "symbol": "SHIBUSDT",
+      "lastPrice": "0.00000726"
+    },
+    {
+      "symbol": "WLFIUSDT",
+      "lastPrice": "0.14300000"
+    },
+    {
+      "symbol": "NOTUSDT",
+      "lastPrice": "0.00052600"
+    },
+    {
+      "symbol": "ETHFIUSDT",
+      "lastPrice": "0.69500000"
+    },
+    {
+      "symbol": "SUSHIUSDT",
+      "lastPrice": "0.29500000"
+    },
+    {
+      "symbol": "GBPUSDT",
+      "lastPrice": "1.18000000"
+    },
+    {
+      "symbol": "HEIUSDT",
+      "lastPrice": "0.11750000"
+    },
+    {
+      "symbol": "AUCTIONUSDT",
+      "lastPrice": "4.96000000"
+    },
+    {
+      "symbol": "MBLUSDT",
+      "lastPrice": "0.00115000"
+    },
+    {
+      "symbol": "KNCUSDT",
+      "lastPrice": "0.22910000"
+    },
+    {
+      "symbol": "STORJUSDT",
+      "lastPrice": "0.14200000"
+    },
+    {
+      "symbol": "NXPCUSDT",
+      "lastPrice": "0.37400000"
+    },
+    {
+      "symbol": "PYRUSDT",
+      "lastPrice": "0.46500000"
+    },
+    {
+      "symbol": "AIXBTUSDT",
+      "lastPrice": "0.03070000"
     },
     {
       "symbol": "EOSUSDT",
       "lastPrice": "0.77990000"
     },
     {
-      "symbol": "ALPINEUSDT",
-      "lastPrice": "0.58800000"
+      "symbol": "MBOXUSDT",
+      "lastPrice": "0.02990000"
     },
     {
-      "symbol": "KAIAUSDT",
-      "lastPrice": "0.05590000"
+      "symbol": "API3USDT",
+      "lastPrice": "0.44300000"
     },
     {
-      "symbol": "NTRNUSDT",
-      "lastPrice": "0.02790000"
+      "symbol": "CYBERUSDT",
+      "lastPrice": "0.71000000"
+    },
+    {
+      "symbol": "BICOUSDT",
+      "lastPrice": "0.04250000"
+    },
+    {
+      "symbol": "SOMIUSDT",
+      "lastPrice": "0.25330000"
+    },
+    {
+      "symbol": "MAVUSDT",
+      "lastPrice": "0.02652000"
     },
     {
       "symbol": "ETHUPUSDT",
       "lastPrice": "11.65100000"
     },
     {
-      "symbol": "PSGUSDT",
-      "lastPrice": "0.82000000"
+      "symbol": "TAOUSDT",
+      "lastPrice": "219.50000000"
     },
     {
-      "symbol": "PROMUSDT",
-      "lastPrice": "8.61300000"
+      "symbol": "GIGGLEUSDT",
+      "lastPrice": "68.55000000"
     },
     {
-      "symbol": "POWRUSDT",
-      "lastPrice": "0.08160000"
+      "symbol": "ACEUSDT",
+      "lastPrice": "0.27400000"
     },
     {
-      "symbol": "XECUSDT",
-      "lastPrice": "0.00001051"
+      "symbol": "VANAUSDT",
+      "lastPrice": "2.59900000"
     },
     {
-      "symbol": "GTCUSDT",
-      "lastPrice": "0.13100000"
+      "symbol": "THETAUSDT",
+      "lastPrice": "0.26900000"
     },
     {
-      "symbol": "AWEUSDT",
-      "lastPrice": "0.05461000"
+      "symbol": "HBARUSDT",
+      "lastPrice": "0.11314000"
     },
     {
-      "symbol": "ALTUSDT",
-      "lastPrice": "0.01167000"
+      "symbol": "ALGOUSDT",
+      "lastPrice": "0.11770000"
     },
     {
       "symbol": "FTMUSDT",
       "lastPrice": "0.69940000"
     },
     {
-      "symbol": "YFIUSDT",
-      "lastPrice": "3342.00000000"
+      "symbol": "VTHOUSDT",
+      "lastPrice": "0.00077100"
+    },
+    {
+      "symbol": "ANKRUSDT",
+      "lastPrice": "0.00639000"
     },
     {
       "symbol": "OMGUSDT",
@@ -1434,132 +1682,112 @@
       "lastPrice": "0.04570000"
     },
     {
-      "symbol": "ALCXUSDT",
-      "lastPrice": "7.60000000"
+      "symbol": "COWUSDT",
+      "lastPrice": "0.21270000"
     },
     {
-      "symbol": "SYNUSDT",
-      "lastPrice": "0.05030000"
+      "symbol": "PHAUSDT",
+      "lastPrice": "0.03620000"
     },
     {
-      "symbol": "HOOKUSDT",
-      "lastPrice": "0.03760000"
+      "symbol": "GPSUSDT",
+      "lastPrice": "0.00481000"
     },
     {
-      "symbol": "AEVOUSDT",
-      "lastPrice": "0.03750000"
+      "symbol": "ETCUSDT",
+      "lastPrice": "11.94000000"
     },
     {
-      "symbol": "NEIROUSDT",
-      "lastPrice": "0.00010713"
+      "symbol": "SUNUSDT",
+      "lastPrice": "0.01908000"
     },
     {
-      "symbol": "TAOUSDT",
-      "lastPrice": "219.00000000"
-    },
-    {
-      "symbol": "SCUSDT",
-      "lastPrice": "0.00145900"
-    },
-    {
-      "symbol": "MLNUSDT",
-      "lastPrice": "4.76000000"
+      "symbol": "MAGICUSDT",
+      "lastPrice": "0.09470000"
     },
     {
       "symbol": "REPUSDT",
       "lastPrice": "4.73000000"
     },
     {
-      "symbol": "TFUELUSDT",
-      "lastPrice": "0.01751000"
+      "symbol": "UMAUSDT",
+      "lastPrice": "0.70700000"
+    },
+    {
+      "symbol": "JASMYUSDT",
+      "lastPrice": "0.00587000"
     },
     {
       "symbol": "MFTUSDT",
       "lastPrice": "0.00525400"
     },
     {
-      "symbol": "FUNUSDT",
-      "lastPrice": "0.00172800"
+      "symbol": "WUSDT",
+      "lastPrice": "0.03410000"
     },
     {
-      "symbol": "MBLUSDT",
-      "lastPrice": "0.00114600"
-    },
-    {
-      "symbol": "SPELLUSDT",
-      "lastPrice": "0.00023980"
-    },
-    {
-      "symbol": "PIXELUSDT",
-      "lastPrice": "0.00793000"
-    },
-    {
-      "symbol": "C98USDT",
-      "lastPrice": "0.02240000"
-    },
-    {
-      "symbol": "SUNUSDT",
-      "lastPrice": "0.01907000"
-    },
-    {
-      "symbol": "HIGHUSDT",
-      "lastPrice": "0.21200000"
-    },
-    {
-      "symbol": "SHIBUSDT",
-      "lastPrice": "0.00000723"
-    },
-    {
-      "symbol": "SYSUSDT",
-      "lastPrice": "0.01742000"
-    },
-    {
-      "symbol": "PLUMEUSDT",
-      "lastPrice": "0.01722000"
-    },
-    {
-      "symbol": "XNOUSDT",
-      "lastPrice": "0.70700000"
-    },
-    {
-      "symbol": "LAUSDT",
-      "lastPrice": "0.29020000"
-    },
-    {
-      "symbol": "BNBUSDT",
-      "lastPrice": "852.50000000"
-    },
-    {
-      "symbol": "HBARUSDT",
-      "lastPrice": "0.11283000"
-    },
-    {
-      "symbol": "MINAUSDT",
-      "lastPrice": "0.07890000"
-    },
-    {
-      "symbol": "ENJUSDT",
-      "lastPrice": "0.02758000"
-    },
-    {
-      "symbol": "RPLUSDT",
-      "lastPrice": "1.93000000"
-    },
-    {
-      "symbol": "JTOUSDT",
-      "lastPrice": "0.38500000"
-    },
-    {
-      "symbol": "ENSUSDT",
-      "lastPrice": "9.60000000"
+      "symbol": "SAHARAUSDT",
+      "lastPrice": "0.02608000"
     },
     {
       "symbol": "AVAXUSDT",
-      "lastPrice": "12.43000000"
+      "lastPrice": "12.44000000"
     },
     {
-      "symbol": "NXPCUSDT",
-      "lastPrice": "0.37250000"
+      "symbol": "BLURUSDT",
+      "lastPrice": "0.02893000"
+    },
+    {
+      "symbol": "IDEXUSDT",
+      "lastPrice": "0.00967000"
+    },
+    {
+      "symbol": "COTIUSDT",
+      "lastPrice": "0.02148000"
+    },
+    {
+      "symbol": "ARBUSDT",
+      "lastPrice": "0.19140000"
+    },
+    {
+      "symbol": "RAREUSDT",
+      "lastPrice": "0.02110000"
+    },
+    {
+      "symbol": "SCUSDT",
+      "lastPrice": "0.00146000"
+    },
+    {
+      "symbol": "JUVUSDT",
+      "lastPrice": "0.72400000"
+    },
+    {
+      "symbol": "CFXUSDT",
+      "lastPrice": "0.07080000"
+    },
+    {
+      "symbol": "STRKUSDT",
+      "lastPrice": "0.08040000"
+    },
+    {
+      "symbol": "ASTRUSDT",
+      "lastPrice": "0.00992000"
+    },
+    {
+      "symbol": "CVXUSDT",
+      "lastPrice": "1.78400000"
+    },
+    {
+      "symbol": "ACAUSDT",
+      "lastPrice": "0.00970000"
+    },
+    {
+      "symbol": "TUTUSDT",
+      "lastPrice": "0.01353000"
+    },
+    {
+      "symbol": "1000SATSUSDT",
+      "lastPrice": "0.00001529"
     },
     {
       "symbol": "DEGOUSDT",
@@ -1570,348 +1798,296 @@
       "lastPrice": "0.00118500"
     },
     {
-      "symbol": "SUSHIUSDT",
-      "lastPrice": "0.29330000"
+      "symbol": "XLMUSDT",
+      "lastPrice": "0.21630000"
     },
     {
-      "symbol": "ARKMUSDT",
-      "lastPrice": "0.18400000"
+      "symbol": "MASKUSDT",
+      "lastPrice": "0.60800000"
     },
     {
-      "symbol": "ALGOUSDT",
-      "lastPrice": "0.11720000"
+      "symbol": "PROMUSDT",
+      "lastPrice": "8.54400000"
     },
     {
-      "symbol": "WLFIUSDT",
-      "lastPrice": "0.14250000"
+      "symbol": "MEUSDT",
+      "lastPrice": "0.20310000"
     },
     {
-      "symbol": "JOEUSDT",
-      "lastPrice": "0.06220000"
+      "symbol": "PUNDIXUSDT",
+      "lastPrice": "0.22720000"
     },
     {
-      "symbol": "TLMUSDT",
-      "lastPrice": "0.00204200"
+      "symbol": "DYDXUSDT",
+      "lastPrice": "0.16780000"
     },
     {
-      "symbol": "VIRTUALUSDT",
-      "lastPrice": "0.68250000"
-    },
-    {
-      "symbol": "KNCUSDT",
-      "lastPrice": "0.22850000"
-    },
-    {
-      "symbol": "MOVEUSDT",
-      "lastPrice": "0.03510000"
-    },
-    {
-      "symbol": "SCRTUSDT",
-      "lastPrice": "0.10490000"
-    },
-    {
-      "symbol": "TRBUSDT",
-      "lastPrice": "20.05000000"
-    },
-    {
-      "symbol": "FORTHUSDT",
-      "lastPrice": "1.55600000"
-    },
-    {
-      "symbol": "ETHFIUSDT",
-      "lastPrice": "0.69100000"
-    },
-    {
-      "symbol": "VANAUSDT",
-      "lastPrice": "2.59000000"
-    },
-    {
-      "symbol": "AMPUSDT",
-      "lastPrice": "0.00170800"
-    },
-    {
-      "symbol": "PEOPLEUSDT",
-      "lastPrice": "0.00938000"
-    },
-    {
-      "symbol": "CVXUSDT",
-      "lastPrice": "1.78200000"
-    },
-    {
-      "symbol": "HEIUSDT",
-      "lastPrice": "0.11690000"
-    },
-    {
-      "symbol": "CGPTUSDT",
-      "lastPrice": "0.02919000"
+      "symbol": "QNTUSDT",
+      "lastPrice": "71.02000000"
     },
     {
       "symbol": "OCEANUSDT",
       "lastPrice": "0.61230000"
     },
     {
-      "symbol": "ASTRUSDT",
-      "lastPrice": "0.00990000"
+      "symbol": "AMPUSDT",
+      "lastPrice": "0.00170900"
     },
     {
-      "symbol": "API3USDT",
-      "lastPrice": "0.44110000"
+      "symbol": "CAKEUSDT",
+      "lastPrice": "1.83700000"
     },
     {
-      "symbol": "JUVUSDT",
-      "lastPrice": "0.72300000"
+      "symbol": "ROSEUSDT",
+      "lastPrice": "0.01105000"
     },
     {
-      "symbol": "GPSUSDT",
-      "lastPrice": "0.00479000"
+      "symbol": "CITYUSDT",
+      "lastPrice": "0.70700000"
     },
     {
-      "symbol": "ETCUSDT",
-      "lastPrice": "11.91000000"
+      "symbol": "WLDUSDT",
+      "lastPrice": "0.49470000"
     },
     {
-      "symbol": "ANKRUSDT",
-      "lastPrice": "0.00635000"
+      "symbol": "ORDIUSDT",
+      "lastPrice": "4.14400000"
     },
     {
-      "symbol": "XLMUSDT",
-      "lastPrice": "0.21590000"
+      "symbol": "BMTUSDT",
+      "lastPrice": "0.02340000"
+    },
+    {
+      "symbol": "GLMRUSDT",
+      "lastPrice": "0.02310000"
+    },
+    {
+      "symbol": "REDUSDT",
+      "lastPrice": "0.21830000"
     },
     {
       "symbol": "VANRYUSDT",
       "lastPrice": "0.00750000"
     },
     {
-      "symbol": "HMSTRUSDT",
-      "lastPrice": "0.00020900"
+      "symbol": "DIAUSDT",
+      "lastPrice": "0.26880000"
     },
     {
-      "symbol": "QKCUSDT",
-      "lastPrice": "0.00392000"
+      "symbol": "PYTHUSDT",
+      "lastPrice": "0.05920000"
     },
     {
-      "symbol": "FUSDT",
-      "lastPrice": "0.00731000"
+      "symbol": "BABYUSDT",
+      "lastPrice": "0.01678000"
     },
     {
-      "symbol": "COWUSDT",
-      "lastPrice": "0.21150000"
+      "symbol": "LINEAUSDT",
+      "lastPrice": "0.00654000"
     },
     {
-      "symbol": "STRKUSDT",
-      "lastPrice": "0.08010000"
+      "symbol": "ERAUSDT",
+      "lastPrice": "0.19610000"
     },
     {
-      "symbol": "MAGICUSDT",
-      "lastPrice": "0.09420000"
-    },
-    {
-      "symbol": "SAHARAUSDT",
-      "lastPrice": "0.02600000"
+      "symbol": "OMUSDT",
+      "lastPrice": "0.07260000"
     },
     {
       "symbol": "RLCUSDT",
-      "lastPrice": "0.64800000"
+      "lastPrice": "0.65100000"
     },
     {
-      "symbol": "LPTUSDT",
-      "lastPrice": "2.84500000"
+      "symbol": "BONKUSDT",
+      "lastPrice": "0.00000778"
     },
     {
-      "symbol": "CITYUSDT",
-      "lastPrice": "0.70400000"
+      "symbol": "FIOUSDT",
+      "lastPrice": "0.01187000"
     },
     {
-      "symbol": "UMAUSDT",
-      "lastPrice": "0.70300000"
+      "symbol": "WALUSDT",
+      "lastPrice": "0.11770000"
     },
     {
-      "symbol": "VTHOUSDT",
-      "lastPrice": "0.00076500"
-    },
-    {
-      "symbol": "KAVAUSDT",
-      "lastPrice": "0.07590000"
-    },
-    {
-      "symbol": "ACEUSDT",
-      "lastPrice": "0.27300000"
-    },
-    {
-      "symbol": "ARBUSDT",
-      "lastPrice": "0.19040000"
-    },
-    {
-      "symbol": "CAKEUSDT",
-      "lastPrice": "1.83400000"
-    },
-    {
-      "symbol": "WUSDT",
-      "lastPrice": "0.03390000"
-    },
-    {
-      "symbol": "PUNDIXUSDT",
-      "lastPrice": "0.22650000"
-    },
-    {
-      "symbol": "PYRUSDT",
-      "lastPrice": "0.46300000"
-    },
-    {
-      "symbol": "MAVUSDT",
-      "lastPrice": "0.02637000"
-    },
-    {
-      "symbol": "NOTUSDT",
-      "lastPrice": "0.00052300"
-    },
-    {
-      "symbol": "JASMYUSDT",
-      "lastPrice": "0.00584000"
+      "symbol": "QUICKUSDT",
+      "lastPrice": "0.01027000"
     },
     {
       "symbol": "ARPAUSDT",
-      "lastPrice": "0.01223000"
+      "lastPrice": "0.01225000"
     },
     {
-      "symbol": "IDEXUSDT",
-      "lastPrice": "0.00964000"
+      "symbol": "GALAUSDT",
+      "lastPrice": "0.00604000"
     },
     {
-      "symbol": "PHBUSDT",
-      "lastPrice": "0.25000000"
+      "symbol": "FTTUSDT",
+      "lastPrice": "0.46410000"
     },
     {
-      "symbol": "AUCTIONUSDT",
-      "lastPrice": "4.92000000"
+      "symbol": "RESOLVUSDT",
+      "lastPrice": "0.07270000"
     },
     {
-      "symbol": "AIXBTUSDT",
-      "lastPrice": "0.03050000"
+      "symbol": "FETUSDT",
+      "lastPrice": "0.21000000"
     },
     {
-      "symbol": "SHELLUSDT",
-      "lastPrice": "0.04860000"
+      "symbol": "IOTXUSDT",
+      "lastPrice": "0.00721000"
+    },
+    {
+      "symbol": "GTCUSDT",
+      "lastPrice": "0.13100000"
+    },
+    {
+      "symbol": "CELOUSDT",
+      "lastPrice": "0.11740000"
+    },
+    {
+      "symbol": "LRCUSDT",
+      "lastPrice": "0.05200000"
+    },
+    {
+      "symbol": "APTUSDT",
+      "lastPrice": "1.68300000"
+    },
+    {
+      "symbol": "KAVAUSDT",
+      "lastPrice": "0.07630000"
+    },
+    {
+      "symbol": "STXUSDT",
+      "lastPrice": "0.25640000"
+    },
+    {
+      "symbol": "ORCAUSDT",
+      "lastPrice": "1.10900000"
+    },
+    {
+      "symbol": "SUPERUSDT",
+      "lastPrice": "0.20940000"
+    },
+    {
+      "symbol": "MOVRUSDT",
+      "lastPrice": "2.45500000"
+    },
+    {
+      "symbol": "ARKMUSDT",
+      "lastPrice": "0.18400000"
+    },
+    {
+      "symbol": "FUSDT",
+      "lastPrice": "0.00730000"
     },
     {
       "symbol": "BETHUSDT",
       "lastPrice": "1556.27000000"
     },
     {
-      "symbol": "BICOUSDT",
-      "lastPrice": "0.04220000"
+      "symbol": "HOTUSDT",
+      "lastPrice": "0.00047800"
     },
     {
-      "symbol": "ICXUSDT",
-      "lastPrice": "0.05410000"
+      "symbol": "1INCHUSDT",
+      "lastPrice": "0.14290000"
     },
     {
-      "symbol": "APTUSDT",
-      "lastPrice": "1.67700000"
+      "symbol": "ACHUSDT",
+      "lastPrice": "0.00771000"
     },
     {
-      "symbol": "PHAUSDT",
-      "lastPrice": "0.03590000"
+      "symbol": "PEPEUSDT",
+      "lastPrice": "0.00000409"
     },
     {
-      "symbol": "MBOXUSDT",
-      "lastPrice": "0.02970000"
+      "symbol": "NKNUSDT",
+      "lastPrice": "0.01160000"
     },
     {
-      "symbol": "COTIUSDT",
-      "lastPrice": "0.02137000"
-    },
-    {
-      "symbol": "CFXUSDT",
-      "lastPrice": "0.07050000"
-    },
-    {
-      "symbol": "BLURUSDT",
-      "lastPrice": "0.02872000"
+      "symbol": "GMXUSDT",
+      "lastPrice": "8.10000000"
     },
     {
       "symbol": "DATAUSDT",
       "lastPrice": "0.00578000"
     },
     {
-      "symbol": "AUDIOUSDT",
-      "lastPrice": "0.02890000"
-    },
-    {
-      "symbol": "DOGSUSDT",
-      "lastPrice": "0.00004000"
-    },
-    {
-      "symbol": "WLDUSDT",
-      "lastPrice": "0.49240000"
-    },
-    {
-      "symbol": "MEUSDT",
-      "lastPrice": "0.20200000"
-    },
-    {
-      "symbol": "CYBERUSDT",
-      "lastPrice": "0.70400000"
+      "symbol": "LAZIOUSDT",
+      "lastPrice": "0.98100000"
     },
     {
       "symbol": "ATMUSDT",
-      "lastPrice": "0.92000000"
+      "lastPrice": "0.92100000"
     },
     {
-      "symbol": "SANTOSUSDT",
-      "lastPrice": "1.67000000"
+      "symbol": "DASHUSDT",
+      "lastPrice": "43.01000000"
     },
     {
-      "symbol": "TUTUSDT",
-      "lastPrice": "0.01344000"
+      "symbol": "ACXUSDT",
+      "lastPrice": "0.04930000"
+    },
+    {
+      "symbol": "DGBUSDT",
+      "lastPrice": "0.00598000"
+    },
+    {
+      "symbol": "MEMEUSDT",
+      "lastPrice": "0.00097100"
     },
     {
       "symbol": "BTGUSDT",
       "lastPrice": "17.65000000"
     },
     {
-      "symbol": "WALUSDT",
-      "lastPrice": "0.11720000"
+      "symbol": "1000CATUSDT",
+      "lastPrice": "0.00267000"
     },
     {
-      "symbol": "HOTUSDT",
-      "lastPrice": "0.00047700"
+      "symbol": "SNXUSDT",
+      "lastPrice": "0.42300000"
     },
     {
-      "symbol": "1000SATSUSDT",
-      "lastPrice": "0.00001519"
+      "symbol": "IOTAUSDT",
+      "lastPrice": "0.08380000"
     },
     {
-      "symbol": "RAREUSDT",
-      "lastPrice": "0.02090000"
+      "symbol": "ILVUSDT",
+      "lastPrice": "5.74000000"
     },
     {
-      "symbol": "GIGGLEUSDT",
-      "lastPrice": "68.05000000"
+      "symbol": "ONDOUSDT",
+      "lastPrice": "0.37820000"
     },
     {
-      "symbol": "BONKUSDT",
-      "lastPrice": "0.00000773"
+      "symbol": "BANANAS31USDT",
+      "lastPrice": "0.00350000"
     },
     {
-      "symbol": "ERAUSDT",
-      "lastPrice": "0.19520000"
+      "symbol": "FLUXUSDT",
+      "lastPrice": "0.10180000"
     },
     {
-      "symbol": "ACHUSDT",
-      "lastPrice": "0.00768000"
+      "symbol": "SANTOSUSDT",
+      "lastPrice": "1.66800000"
     },
     {
-      "symbol": "REDUSDT",
-      "lastPrice": "0.21710000"
+      "symbol": "TRUUSDT",
+      "lastPrice": "0.01010000"
     },
     {
-      "symbol": "GALAUSDT",
-      "lastPrice": "0.00602000"
+      "symbol": "PNUTUSDT",
+      "lastPrice": "0.06950000"
     },
     {
-      "symbol": "DASHUSDT",
-      "lastPrice": "42.86000000"
+      "symbol": "USTCUSDT",
+      "lastPrice": "0.00643000"
+    },
+    {
+      "symbol": "SXPUSDT",
+      "lastPrice": "0.05930000"
     },
     {
       "symbol": "STMXUSDT",
@@ -1922,464 +2098,316 @@
       "lastPrice": "0.06350000"
     },
     {
-      "symbol": "QUICKUSDT",
-      "lastPrice": "0.01018000"
+      "symbol": "BEAMXUSDT",
+      "lastPrice": "0.00282900"
+    },
+    {
+      "symbol": "HOLOUSDT",
+      "lastPrice": "0.06800000"
+    },
+    {
+      "symbol": "CTKUSDT",
+      "lastPrice": "0.26180000"
+    },
+    {
+      "symbol": "WINUSDT",
+      "lastPrice": "0.00002900"
     },
     {
       "symbol": "LOOMUSDT",
       "lastPrice": "0.04831000"
     },
     {
-      "symbol": "OMUSDT",
-      "lastPrice": "0.07230000"
-    },
-    {
-      "symbol": "RESOLVUSDT",
-      "lastPrice": "0.07220000"
+      "symbol": "VELODROMEUSDT",
+      "lastPrice": "0.01930000"
     },
     {
       "symbol": "DOTUPUSDT",
       "lastPrice": "0.09600000"
     },
     {
-      "symbol": "ACAUSDT",
-      "lastPrice": "0.00960000"
+      "symbol": "LISTAUSDT",
+      "lastPrice": "0.16590000"
     },
     {
-      "symbol": "DIAUSDT",
-      "lastPrice": "0.26740000"
+      "symbol": "RVNUSDT",
+      "lastPrice": "0.00701000"
     },
     {
-      "symbol": "ONDOUSDT",
-      "lastPrice": "0.37720000"
+      "symbol": "AXSUSDT",
+      "lastPrice": "0.83000000"
     },
     {
-      "symbol": "GMXUSDT",
-      "lastPrice": "8.08000000"
+      "symbol": "ADXUSDT",
+      "lastPrice": "0.10590000"
     },
     {
-      "symbol": "LINEAUSDT",
-      "lastPrice": "0.00651000"
+      "symbol": "TONUSDT",
+      "lastPrice": "1.60500000"
     },
     {
-      "symbol": "STXUSDT",
-      "lastPrice": "0.25540000"
-    },
-    {
-      "symbol": "BMTUSDT",
-      "lastPrice": "0.02320000"
-    },
-    {
-      "symbol": "MASKUSDT",
-      "lastPrice": "0.60200000"
-    },
-    {
-      "symbol": "ORDIUSDT",
-      "lastPrice": "4.11500000"
-    },
-    {
-      "symbol": "FETUSDT",
-      "lastPrice": "0.20890000"
+      "symbol": "CETUSUSDT",
+      "lastPrice": "0.02290000"
     },
     {
       "symbol": "POLSUSDT",
       "lastPrice": "0.30790000"
     },
     {
-      "symbol": "PEPEUSDT",
-      "lastPrice": "0.00000407"
+      "symbol": "DYMUSDT",
+      "lastPrice": "0.06780000"
     },
     {
-      "symbol": "PYTHUSDT",
-      "lastPrice": "0.05880000"
+      "symbol": "SKLUSDT",
+      "lastPrice": "0.00988000"
     },
     {
-      "symbol": "WINUSDT",
-      "lastPrice": "0.00002898"
+      "symbol": "ACMUSDT",
+      "lastPrice": "0.53400000"
     },
     {
-      "symbol": "THETAUSDT",
-      "lastPrice": "0.26700000"
+      "symbol": "ICPUSDT",
+      "lastPrice": "2.95600000"
     },
     {
-      "symbol": "LAZIOUSDT",
-      "lastPrice": "0.97700000"
+      "symbol": "CHRUSDT",
+      "lastPrice": "0.03940000"
     },
     {
-      "symbol": "DYDXUSDT",
-      "lastPrice": "0.16690000"
+      "symbol": "AGLDUSDT",
+      "lastPrice": "0.26000000"
     },
     {
-      "symbol": "BANANAS31USDT",
-      "lastPrice": "0.00349000"
+      "symbol": "NEARUSDT",
+      "lastPrice": "1.52300000"
     },
     {
-      "symbol": "CELOUSDT",
-      "lastPrice": "0.11630000"
+      "symbol": "RSRUSDT",
+      "lastPrice": "0.00253200"
     },
     {
-      "symbol": "LRCUSDT",
-      "lastPrice": "0.05150000"
+      "symbol": "EIGENUSDT",
+      "lastPrice": "0.37700000"
     },
     {
-      "symbol": "ROSEUSDT",
-      "lastPrice": "0.01099000"
-    },
-    {
-      "symbol": "IOTXUSDT",
-      "lastPrice": "0.00716000"
-    },
-    {
-      "symbol": "FTTUSDT",
-      "lastPrice": "0.46280000"
-    },
-    {
-      "symbol": "FIOUSDT",
-      "lastPrice": "0.01176000"
-    },
-    {
-      "symbol": "RVNUSDT",
-      "lastPrice": "0.00698000"
-    },
-    {
-      "symbol": "TONUSDT",
-      "lastPrice": "1.60100000"
-    },
-    {
-      "symbol": "SUPERUSDT",
-      "lastPrice": "0.20870000"
-    },
-    {
-      "symbol": "SOMIUSDT",
-      "lastPrice": "0.24960000"
-    },
-    {
-      "symbol": "ORCAUSDT",
-      "lastPrice": "1.10300000"
-    },
-    {
-      "symbol": "BABYUSDT",
-      "lastPrice": "0.01671000"
-    },
-    {
-      "symbol": "ADXUSDT",
-      "lastPrice": "0.10550000"
-    },
-    {
-      "symbol": "MEMEUSDT",
-      "lastPrice": "0.00096700"
+      "symbol": "POLUSDT",
+      "lastPrice": "0.10400000"
     },
     {
       "symbol": "DOTDOWNUSDT",
       "lastPrice": "16.73700000"
     },
     {
-      "symbol": "MOVRUSDT",
-      "lastPrice": "2.43700000"
-    },
-    {
       "symbol": "SUSDT",
-      "lastPrice": "0.07540000"
+      "lastPrice": "0.07550000"
     },
     {
-      "symbol": "CTKUSDT",
-      "lastPrice": "0.26070000"
+      "symbol": "AXLUSDT",
+      "lastPrice": "0.07060000"
     },
     {
-      "symbol": "1INCHUSDT",
-      "lastPrice": "0.14190000"
+      "symbol": "FLOKIUSDT",
+      "lastPrice": "0.00003939"
     },
     {
-      "symbol": "QNTUSDT",
-      "lastPrice": "70.92000000"
+      "symbol": "ASTERUSDT",
+      "lastPrice": "0.69200000"
     },
     {
-      "symbol": "POLUSDT",
-      "lastPrice": "0.10370000"
+      "symbol": "IMXUSDT",
+      "lastPrice": "0.22800000"
     },
     {
-      "symbol": "SNXUSDT",
-      "lastPrice": "0.42200000"
-    },
-    {
-      "symbol": "GLMRUSDT",
-      "lastPrice": "0.02290000"
-    },
-    {
-      "symbol": "ILVUSDT",
-      "lastPrice": "5.71000000"
-    },
-    {
-      "symbol": "IOTAUSDT",
-      "lastPrice": "0.08330000"
-    },
-    {
-      "symbol": "AXSUSDT",
-      "lastPrice": "0.82700000"
-    },
-    {
-      "symbol": "HOLOUSDT",
-      "lastPrice": "0.06740000"
-    },
-    {
-      "symbol": "DGBUSDT",
-      "lastPrice": "0.00593000"
-    },
-    {
-      "symbol": "BEAMXUSDT",
-      "lastPrice": "0.00281600"
-    },
-    {
-      "symbol": "SXPUSDT",
-      "lastPrice": "0.05910000"
-    },
-    {
-      "symbol": "FLUXUSDT",
-      "lastPrice": "0.10120000"
-    },
-    {
-      "symbol": "LISTAUSDT",
-      "lastPrice": "0.16490000"
+      "symbol": "QIUSDT",
+      "lastPrice": "0.00303000"
     },
     {
       "symbol": "AAVEUSDT",
-      "lastPrice": "148.89000000"
+      "lastPrice": "149.25000000"
     },
     {
-      "symbol": "USTCUSDT",
-      "lastPrice": "0.00638000"
+      "symbol": "TIAUSDT",
+      "lastPrice": "0.45600000"
     },
     {
-      "symbol": "SKLUSDT",
-      "lastPrice": "0.00981000"
+      "symbol": "GUNUSDT",
+      "lastPrice": "0.01091000"
     },
     {
-      "symbol": "ACXUSDT",
-      "lastPrice": "0.04890000"
+      "symbol": "FORMUSDT",
+      "lastPrice": "0.32490000"
     },
     {
-      "symbol": "ICPUSDT",
-      "lastPrice": "2.94200000"
-    },
-    {
-      "symbol": "DYMUSDT",
-      "lastPrice": "0.06740000"
-    },
-    {
-      "symbol": "TRUUSDT",
-      "lastPrice": "0.01000000"
-    },
-    {
-      "symbol": "ACMUSDT",
-      "lastPrice": "0.53100000"
-    },
-    {
-      "symbol": "RSRUSDT",
-      "lastPrice": "0.00251700"
-    },
-    {
-      "symbol": "ADAUSDT",
-      "lastPrice": "0.35210000"
+      "symbol": "TUSDT",
+      "lastPrice": "0.00898000"
     },
     {
       "symbol": "APEUSDT",
-      "lastPrice": "0.20120000"
+      "lastPrice": "0.20170000"
     },
     {
-      "symbol": "CETUSUSDT",
-      "lastPrice": "0.02270000"
+      "symbol": "BOMEUSDT",
+      "lastPrice": "0.00055900"
     },
     {
-      "symbol": "AGLDUSDT",
-      "lastPrice": "0.25900000"
+      "symbol": "ADAUSDT",
+      "lastPrice": "0.35310000"
+    },
+    {
+      "symbol": "LUNCUSDT",
+      "lastPrice": "0.00003909"
+    },
+    {
+      "symbol": "SKYUSDT",
+      "lastPrice": "0.06187000"
     },
     {
       "symbol": "ALPHAUSDT",
       "lastPrice": "0.00970000"
     },
     {
-      "symbol": "NEARUSDT",
-      "lastPrice": "1.51500000"
-    },
-    {
       "symbol": "KEYUSDT",
       "lastPrice": "0.00125300"
     },
     {
-      "symbol": "VELODROMEUSDT",
-      "lastPrice": "0.01910000"
+      "symbol": "QKCUSDT",
+      "lastPrice": "0.00393200"
+    },
+    {
+      "symbol": "PUMPUSDT",
+      "lastPrice": "0.00179000"
     },
     {
       "symbol": "UNIUSDT",
-      "lastPrice": "5.94700000"
+      "lastPrice": "5.94300000"
     },
     {
-      "symbol": "PNUTUSDT",
-      "lastPrice": "0.06890000"
-    },
-    {
-      "symbol": "ASTERUSDT",
-      "lastPrice": "0.68800000"
-    },
-    {
-      "symbol": "TIAUSDT",
-      "lastPrice": "0.45330000"
-    },
-    {
-      "symbol": "EIGENUSDT",
-      "lastPrice": "0.37400000"
-    },
-    {
-      "symbol": "FLOKIUSDT",
-      "lastPrice": "0.00003925"
-    },
-    {
-      "symbol": "GUNUSDT",
-      "lastPrice": "0.01087000"
+      "symbol": "BCHUSDT",
+      "lastPrice": "598.30000000"
     },
     {
       "symbol": "SNTUSDT",
       "lastPrice": "0.02720000"
     },
     {
-      "symbol": "PUMPUSDT",
-      "lastPrice": "0.00178500"
+      "symbol": "PORTALUSDT",
+      "lastPrice": "0.02160000"
     },
     {
-      "symbol": "AXLUSDT",
-      "lastPrice": "0.07000000"
+      "symbol": "PENGUUSDT",
+      "lastPrice": "0.00891600"
     },
     {
-      "symbol": "QIUSDT",
-      "lastPrice": "0.00301000"
+      "symbol": "INJUSDT",
+      "lastPrice": "4.57300000"
     },
     {
       "symbol": "DODOUSDT",
       "lastPrice": "0.01800000"
     },
     {
-      "symbol": "TUSDT",
-      "lastPrice": "0.00896000"
+      "symbol": "COOKIEUSDT",
+      "lastPrice": "0.03900000"
     },
     {
-      "symbol": "STORJUSDT",
-      "lastPrice": "0.14310000"
+      "symbol": "BBUSDT",
+      "lastPrice": "0.05370000"
     },
     {
-      "symbol": "1000CATUSDT",
-      "lastPrice": "0.00264000"
+      "symbol": "BATUSDT",
+      "lastPrice": "0.21000000"
     },
     {
-      "symbol": "FORMUSDT",
-      "lastPrice": "0.32320000"
+      "symbol": "JUPUSDT",
+      "lastPrice": "0.18970000"
     },
     {
-      "symbol": "BCHUSDT",
-      "lastPrice": "596.90000000"
-    },
-    {
-      "symbol": "NKNUSDT",
-      "lastPrice": "0.01150000"
-    },
-    {
-      "symbol": "IMXUSDT",
-      "lastPrice": "0.22700000"
-    },
-    {
-      "symbol": "INJUSDT",
-      "lastPrice": "4.56800000"
-    },
-    {
-      "symbol": "BIFIUSDT",
-      "lastPrice": "210.00000000"
-    },
-    {
-      "symbol": "BOMEUSDT",
-      "lastPrice": "0.00055500"
-    },
-    {
-      "symbol": "SKYUSDT",
-      "lastPrice": "0.06183000"
-    },
-    {
-      "symbol": "PENGUUSDT",
-      "lastPrice": "0.00887000"
-    },
-    {
-      "symbol": "LUNCUSDT",
-      "lastPrice": "0.00003876"
+      "symbol": "RADUSDT",
+      "lastPrice": "0.26600000"
     },
     {
       "symbol": "BALUSDT",
       "lastPrice": "0.96700000"
     },
     {
-      "symbol": "CHRUSDT",
-      "lastPrice": "0.03900000"
+      "symbol": "SAGAUSDT",
+      "lastPrice": "0.05670000"
+    },
+    {
+      "symbol": "STRAXUSDT",
+      "lastPrice": "0.02372000"
     },
     {
       "symbol": "KP3RUSDT",
       "lastPrice": "16.48000000"
     },
     {
-      "symbol": "COOKIEUSDT",
-      "lastPrice": "0.03870000"
-    },
-    {
-      "symbol": "BBUSDT",
-      "lastPrice": "0.05310000"
+      "symbol": "GMTUSDT",
+      "lastPrice": "0.01655000"
     },
     {
       "symbol": "TORNUSDT",
       "lastPrice": "4.06000000"
     },
     {
-      "symbol": "BATUSDT",
-      "lastPrice": "0.20840000"
+      "symbol": "MITOUSDT",
+      "lastPrice": "0.06283000"
     },
     {
-      "symbol": "JUPUSDT",
-      "lastPrice": "0.18820000"
+      "symbol": "LQTYUSDT",
+      "lastPrice": "0.35100000"
     },
     {
-      "symbol": "GASUSDT",
-      "lastPrice": "2.05700000"
+      "symbol": "BANANAUSDT",
+      "lastPrice": "6.80000000"
+    },
+    {
+      "symbol": "ATOMUSDT",
+      "lastPrice": "1.97200000"
     },
     {
       "symbol": "SYRUPUSDT",
-      "lastPrice": "0.31400000"
-    },
-    {
-      "symbol": "PORTALUSDT",
-      "lastPrice": "0.02140000"
+      "lastPrice": "0.31460000"
     },
     {
       "symbol": "PAXGUSDT",
-      "lastPrice": "4354.75000000"
+      "lastPrice": "4358.25000000"
     },
     {
       "symbol": "NBTUSDT",
       "lastPrice": "0.00252000"
     },
     {
-      "symbol": "ATOMUSDT",
-      "lastPrice": "1.96400000"
+      "symbol": "HOMEUSDT",
+      "lastPrice": "0.01641000"
+    },
+    {
+      "symbol": "ARUSDT",
+      "lastPrice": "3.50000000"
+    },
+    {
+      "symbol": "GRTUSDT",
+      "lastPrice": "0.03580000"
+    },
+    {
+      "symbol": "GASUSDT",
+      "lastPrice": "2.06400000"
+    },
+    {
+      "symbol": "FFUSDT",
+      "lastPrice": "0.08810000"
+    },
+    {
+      "symbol": "EGLDUSDT",
+      "lastPrice": "5.79000000"
     },
     {
       "symbol": "WRXUSDT",
       "lastPrice": "0.01730000"
     },
     {
-      "symbol": "BANANAUSDT",
-      "lastPrice": "6.75000000"
-    },
-    {
-      "symbol": "SAGAUSDT",
-      "lastPrice": "0.05610000"
-    },
-    {
-      "symbol": "HOMEUSDT",
-      "lastPrice": "0.01641000"
+      "symbol": "FXSUSDT",
+      "lastPrice": "0.63100000"
     },
     {
       "symbol": "BTCSTUSDT",
@@ -2390,28 +2418,12 @@
       "lastPrice": "0.09390000"
     },
     {
-      "symbol": "ARUSDT",
-      "lastPrice": "3.49000000"
-    },
-    {
-      "symbol": "MITOUSDT",
-      "lastPrice": "0.06265000"
-    },
-    {
-      "symbol": "LQTYUSDT",
-      "lastPrice": "0.34800000"
+      "symbol": "METISUSDT",
+      "lastPrice": "5.14000000"
     },
     {
       "symbol": "MITHUSDT",
       "lastPrice": "0.00345000"
-    },
-    {
-      "symbol": "FXSUSDT",
-      "lastPrice": "0.62900000"
-    },
-    {
-      "symbol": "FFUSDT",
-      "lastPrice": "0.08754000"
     },
     {
       "symbol": "ALPACAUSDT",
@@ -2422,20 +2434,12 @@
       "lastPrice": "0.24442000"
     },
     {
-      "symbol": "GRTUSDT",
-      "lastPrice": "0.03550000"
-    },
-    {
-      "symbol": "METISUSDT",
-      "lastPrice": "5.13000000"
-    },
-    {
       "symbol": "FLOWUSDT",
       "lastPrice": "0.09900000"
     },
     {
-      "symbol": "EGLDUSDT",
-      "lastPrice": "5.75000000"
+      "symbol": "DOLOUSDT",
+      "lastPrice": "0.04494000"
     },
     {
       "symbol": "AUDUSDT",
@@ -2450,12 +2454,20 @@
       "lastPrice": "0.00977000"
     },
     {
+      "symbol": "AUDIOUSDT",
+      "lastPrice": "0.02910000"
+    },
+    {
       "symbol": "DNTUSDT",
       "lastPrice": "0.03600000"
     },
     {
       "symbol": "MOBUSDT",
       "lastPrice": "0.06230000"
+    },
+    {
+      "symbol": "WIFUSDT",
+      "lastPrice": "0.29100000"
     },
     {
       "symbol": "IRISUSDT",
@@ -2474,20 +2486,16 @@
       "lastPrice": "0.00312000"
     },
     {
-      "symbol": "WIFUSDT",
-      "lastPrice": "0.28900000"
-    },
-    {
       "symbol": "XRPUPUSDT",
       "lastPrice": "0.08550000"
     },
     {
-      "symbol": "NULSUSDT",
-      "lastPrice": "0.02580000"
+      "symbol": "SPKUSDT",
+      "lastPrice": "0.02273400"
     },
     {
-      "symbol": "DOLOUSDT",
-      "lastPrice": "0.04476000"
+      "symbol": "NULSUSDT",
+      "lastPrice": "0.02580000"
     },
     {
       "symbol": "MIRUSDT",
@@ -2502,32 +2510,24 @@
       "lastPrice": "95.30000000"
     },
     {
-      "symbol": "SPKUSDT",
-      "lastPrice": "0.02263300"
-    },
-    {
-      "symbol": "GMTUSDT",
-      "lastPrice": "0.01652000"
+      "symbol": "HUMAUSDT",
+      "lastPrice": "0.02522000"
     },
     {
       "symbol": "ANCUSDT",
       "lastPrice": "0.03151000"
     },
     {
-      "symbol": "GTOUSDT",
-      "lastPrice": "0.01233000"
-    },
-    {
-      "symbol": "HUMAUSDT",
-      "lastPrice": "0.02509000"
-    },
-    {
       "symbol": "BANKUSDT",
       "lastPrice": "0.04880000"
     },
     {
+      "symbol": "GTOUSDT",
+      "lastPrice": "0.01233000"
+    },
+    {
       "symbol": "THEUSDT",
-      "lastPrice": "0.19050000"
+      "lastPrice": "0.19140000"
     },
     {
       "symbol": "NBSUSDT",
@@ -2570,12 +2570,12 @@
       "lastPrice": "0.35500000"
     },
     {
-      "symbol": "GFTUSDT",
-      "lastPrice": "0.00196000"
+      "symbol": "ATUSDT",
+      "lastPrice": "0.16070000"
     },
     {
-      "symbol": "ATUSDT",
-      "lastPrice": "0.16090000"
+      "symbol": "GFTUSDT",
+      "lastPrice": "0.00196000"
     },
     {
       "symbol": "COMBOUSDT",
